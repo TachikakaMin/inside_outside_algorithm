@@ -2,6 +2,7 @@
 inside-outside algorithm written by c++
 
 inside alpha:
+
 (0, 0) -2 0.10000
 
 (0, 1) -2 0.00400
