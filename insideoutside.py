@@ -39,7 +39,7 @@ for len in range(2,n+1):
                 alpha[x][l][r]+=(p*alpha[y][l][k]*alpha[z][k+1][r]);
 
 beta[root][0][n-1]=1
-for len in range(2,n+1):
+for len in range(n,0,-1):
     for i in range(n):
         l=i
         r=len+i-1
